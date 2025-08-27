@@ -54,6 +54,7 @@
 }
 
 .loading-text {
+  cursor: default;
   font-size: 5vw;
   line-height: 64px;
   letter-spacing: 10px;
